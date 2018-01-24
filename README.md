@@ -58,8 +58,11 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 2. open the Wallet, it should be running on http://localhost:3000, but since at this point source code is shared with the meteor-dapp-wallet you can simply go to https://wallet.ethereum.org/ - your wallet should already be loaded and running via Metamask
 
 
-# Future development
+# Future development / per-provider customizations
 
 1. customize the contract to the specific first use case
 2. setup simple scripts to deploy the wallet to the Swarm
-3. tweak the Wallet to allow a more streamlined user experience (ie list the community tokens first by default and any ETH balances later)
+3. tweak the Wallet to allow a more streamlined user experience:
+  1. list the community tokens first by default and any ETH balances later
+  2. adjust the design elements to the provider's brand
+  3. implement any particular extra business logic the provider might need
