@@ -35,6 +35,10 @@ with appropriate cryptographic keys.
 The system can be integrated with conventional banking interfaces and wallets as necessary using the FIAT bridge (jSecModule) which has also
 been developed in-house.
 
+The beauty of the concept is that it's useful and usable *now* for a closed pilot with a
+limited group of "friendly users" and expanded as production experience and user base 
+growth demands. 
+
 
 # Instructions
 
