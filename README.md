@@ -78,3 +78,4 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
     2. adjust the design elements to the provider's brand
     3. implement any particular extra business logic the provider might need
 4. develop an open source database of smart contract templates for the tokens
+5. telegram support group & discourse
