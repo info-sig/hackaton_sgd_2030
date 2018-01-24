@@ -6,6 +6,9 @@ basic goods.
 The municipalities (service providers) would issue tokens as a part of an UBI or similar
 scheme and the clients would be free to use (burn) them in exchange of city services.
 
+Note that the municipality doesn't need to own any infrastructure, the system as
+designed now is operational *now* and can be deployed to the ETH swarm given enough ether.
+
 Considering the process of development of ECR20 tokens is so straightforward the idea
 is to develop tokens for each specific purpose, and give each token specific properties
 that best fit it's role - transport, electricity, internet access... in it's particular
