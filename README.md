@@ -52,7 +52,9 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 
 ## As a client
 
-1. [install the Metamask chrome extension & follow instructions to set it up](https://metamask.io/) && connect it to Ropsten test network (top of the Metamask screen)
+1. [install the Metamask chrome extension & follow instructions to set it up](https://metamask.io/), then
+  1. connect it to Ropsten test network (top of the Metamask screen)
+  2. add the ECR20 token via "Add Token" option under "Tokens" tab in Metamask - the contract address of the token is 0x39dbb38e6d448ffd228534b21b9bf80e37d8fb3a
 2. open the Wallet, it should be running on http://localhost:3000, but since at this point source code is shared with the meteor-dapp-wallet you can simply go to https://wallet.ethereum.org/ - your wallet should already be loaded and running via Metamask
 
 
