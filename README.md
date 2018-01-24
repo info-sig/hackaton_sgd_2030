@@ -1,5 +1,7 @@
 # Instructions
 
+First, check out our demo token on the [Ropsten test network](https://ropsten.etherscan.io/token/0x39dbb38e6d448ffd228534b21b9bf80e37d8fb3a)
+
 ## As a developer
 
 1. [install the geth node](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu)
