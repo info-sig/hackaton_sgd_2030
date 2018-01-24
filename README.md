@@ -1,3 +1,34 @@
+# Introduction
+
+Our aim is to allow municipalities to issue self-mintable utility tokens for
+basic goods.
+
+The municipalities (service providers) would issue tokens as a part of an UBI or similar
+scheme and the clients would be free to use (burn) them in exchange of city services.
+
+Considering the process of development of ECR20 tokens is so straightforward the idea
+is to develop tokens for each specific purpose, and give each token specific properties
+that best fit it's role - transport, electricity, internet access...
+
+For example:
+
+1. some tokens may be tradeable - either directly through the ETH network, or through 
+a specialized wallet held by the service provider which has the capability to run
+contracts as a wallet owner
+2. most tokens will have the mintable property for the service provider - the idea 
+here is the capability to attach a "PoW" to the minting process, ie "cleaning snow in the 
+winter gives you X transport and Y internet access tokens"
+3. used tokens will generally be burned or sank
+
+To make this scheme useful to the general public - in public spaces such as trams, public keys can be put into [Mifare cards](https://en.wikipedia.org/wiki/MIFARE)
+backed by a safe & centralized cryptographic (session-key based) scheme based on the DesFire EV2 chip
+that has been developed in-house - those cards can be read by any NFC-capable device
+with appropriate cryptographic keys. 
+
+The system can be integrated with conventional banking interfaces and wallets as necessary using the FIAT bridge (jSecModule) which has also
+been developed in-house.
+
+
 # Instructions
 
 First, check out our demo token on the [Ropsten test network](https://ropsten.etherscan.io/token/0x39dbb38e6d448ffd228534b21b9bf80e37d8fb3a)
