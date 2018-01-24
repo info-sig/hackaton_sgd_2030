@@ -37,8 +37,15 @@ been developed in-house.
 
 The beauty of the concept is that it's useful and usable *now* for a closed pilot with a
 limited group of "friendly users" and expanded as production experience and user base 
-growth demands. 
+growth demands.
 
+## Develop an open source database of smart contract templates for the community tokens
+
+Developing a token is dead-easy given a good template (often it's just
+a matter of parametrization), but there's a lack of good finished templates for 
+mintable tokens which will be the main use case. The plan is to provide
+open source finished templates from real use cases to end clients to reduce the technical 
+barrier to entry for prospective providers.
 
 # Instructions
 
@@ -70,3 +77,4 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
     1. list the community tokens first by default and any ETH balances later
     2. adjust the design elements to the provider's brand
     3. implement any particular extra business logic the provider might need
+4. develop an open source database of smart contract templates for the tokens
