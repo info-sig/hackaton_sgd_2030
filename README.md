@@ -43,12 +43,10 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 1. [install the geth node](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu)
   1. use the provided script in `scripts/run_geth.sh` to run the node on the Ropsten test network
 2. [install & run the Wallet](https://github.com/ethereum/meteor-dapp-wallet/tree/87ccad69413cbdbcde2a3006b9f7ff701767f576)
-3. ...
 
 ## As a service provider
 
 1. build the Wallet into static content and deploy it somewhere - you can use [ETH Swarm](https://medium.com/async-la/deploy-your-own-ethereum-blockchain-with-swarm-on-aws-bffc3d4dccc2), GH pages, S3, ... any place which allows you to host static files
-2. 
 
 ## As a client
 
