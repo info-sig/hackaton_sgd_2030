@@ -8,7 +8,9 @@ scheme and the clients would be free to use (burn) them in exchange of city serv
 
 Considering the process of development of ECR20 tokens is so straightforward the idea
 is to develop tokens for each specific purpose, and give each token specific properties
-that best fit it's role - transport, electricity, internet access...
+that best fit it's role - transport, electricity, internet access... in it's particular
+geographical location (transfer limits, any fees, option to trade or not - should be
+chosen in communication with regional actors).
 
 For example:
 
@@ -53,6 +55,6 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 
 # Future development
 
-1. harden the contract
+1. customize the contract to the specific first use case
 2. setup simple scripts to deploy the wallet to the Swarm
-3. 
+3. tweak the Wallet to allow a more streamlined user experience (ie list the community tokens first by default and any ETH balances later)
