@@ -1,5 +1,7 @@
 # Introduction
 
+[Screenshot of the wallet](https://i.imgur.com/AJPtVjf.png)
+
 Our aim is to allow municipalities to issue self-mintable utility tokens for
 basic goods.
 
