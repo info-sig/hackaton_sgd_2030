@@ -57,8 +57,8 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 ## As a client
 
 1. [install the Metamask chrome extension & follow instructions to set it up](https://metamask.io/), then
-  1. connect it to Ropsten test network (top of the Metamask screen)
-  2. add the ECR20 token via "Add Token" option under "Tokens" tab in Metamask - the contract address of the token is 0x39dbb38e6d448ffd228534b21b9bf80e37d8fb3a
+    1. connect it to Ropsten test network (top of the Metamask screen)
+    2. add the ECR20 token via "Add Token" option under "Tokens" tab in Metamask - the contract address of the token is 0x39dbb38e6d448ffd228534b21b9bf80e37d8fb3a
 2. open the Wallet, it should be running on http://localhost:3000, but since at this point source code is shared with the meteor-dapp-wallet you can simply go to https://wallet.ethereum.org/ - your wallet should already be loaded and running via Metamask
 
 
@@ -67,6 +67,6 @@ First, check out our demo token on the [Ropsten test network](https://ropsten.et
 1. customize the contract to the specific first use case
 2. setup simple scripts to deploy the wallet to the Swarm
 3. tweak the Wallet to allow a more streamlined user experience:
-  1. list the community tokens first by default and any ETH balances later
-  2. adjust the design elements to the provider's brand
-  3. implement any particular extra business logic the provider might need
+    1. list the community tokens first by default and any ETH balances later
+    2. adjust the design elements to the provider's brand
+    3. implement any particular extra business logic the provider might need
